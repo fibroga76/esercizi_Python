@@ -1,0 +1,14 @@
+Request URL:http://127.0.0.1:5000/ricercaId?id=1
+Request method:GET
+Remote address:127.0.0.1:5000
+Status code:
+200
+Version:HTTP/1.0
+
+
+---------------- modifica della request
+ImmutableMultiDict([('id', '2')])
+
+ImmutableMultiDict([('id', '3')])
+
+
